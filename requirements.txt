@@ -1,0 +1,17 @@
+
+streamlit
+gtts==2.5.0
+moviepy==1.0.3
+googletrans==4.0.0-rc1
+PyPDF2==3.0.1
+langchain==0.1.4
+transformers==4.37.1
+torch
+pybase64
+langchain
+accelerate
+sentence_transformers
+faiss-cpu
+tiktoken
+huggingface-hub
+pypdf
